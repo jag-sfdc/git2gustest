@@ -2,8 +2,8 @@ name: Publish to NPM
 
 on:
   push:
-    tags:
-    - publish && (patch||minor||major)
+    releases:
+    - '*'
 
 jobs:
   build:
