@@ -17,3 +17,5 @@ jobs:
       run: |
         echo Add other actions to build,
         echo test, and deploy your project.
+    - name: Run publish script
+      uses: jag-sfdc/sfdx-publish-action@master
