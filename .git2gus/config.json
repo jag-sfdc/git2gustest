@@ -1,4 +1,6 @@
 {
     "productTag": "a1aB000000005G3IAI",
-    "defaultBuild": "218"
+    "defaultBuild": "218",
+    "titlePrependText": "[Git2GusTest Prepend]",
+    "updateIssueDescription": true
 }
