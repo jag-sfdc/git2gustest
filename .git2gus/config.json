@@ -2,5 +2,5 @@
     "productTag": "a0b6g000000Zk4vAAC",
     "defaultBuild": "218",
     "gusTitlePrefix": "[Git2GusTest Prepend]",
-    "updateIssueDescription": true
+    "suppressGithubComments": false
 }
